@@ -45,7 +45,7 @@ export default function About() {
             <div className="aspect-ratio-square relative rounded-lg overflow-hidden">
               <Image
                 src="https://photos.fife.usercontent.google.com/pw/AP1GczM4LuKrGJkFZVJN-lsKk2NvQQzi5GhQ_mMsH578X5lvVI5oDDH9NGlGZw=w620-h827-s-no-gm?authuser=0"
-                alt="Augustine Akpokonyan"
+                alt="Google Photos Image"
                 width={600}
                 height={600}
                 className="object-cover rounded-lg"
