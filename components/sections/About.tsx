@@ -44,7 +44,7 @@ export default function About() {
           <motion.div variants={itemVariants} className="relative">
             <div className="aspect-ratio-square relative rounded-lg overflow-hidden">
               <Image
-                src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                src="https://photos.google.com/photo/AF1QipPKTyUt7gOMNKfiXkLNBcahz6Gc-9-kltHx28EC"
                 alt="Augustine Akpokonyan"
                 width={600}
                 height={600}
