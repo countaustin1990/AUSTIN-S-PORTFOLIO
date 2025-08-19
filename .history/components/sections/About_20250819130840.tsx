@@ -44,8 +44,8 @@ export default function About() {
           <motion.div variants={itemVariants} className="relative">
             <div className="aspect-ratio-square relative rounded-lg overflow-hidden">
               <Image
-                src="/images/augustine.jpg"
-                alt="Augustine Portrait"
+                src="./images/augustine.jpg"
+                alt="Google Photos Image"
                 width={600}
                 height={600}
                 className="object-cover rounded-lg"

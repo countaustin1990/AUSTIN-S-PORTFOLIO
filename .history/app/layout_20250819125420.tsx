@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/ThemeProvider';
 import { Toaster } from "sonner";
-//import Chatbot from '@/components/Chatbot';
+import Chatbot from '@/components/Chatbot';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -27,7 +27,7 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           {children}
-          {/*<Chatbot />*/}
+          <Chatbot />
           <Toaster position="bottom-right" />
         </ThemeProvider>
       </body>

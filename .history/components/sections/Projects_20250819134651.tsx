@@ -35,7 +35,7 @@ const projects = [
   {
     title: "Medical Study Lecture Platform",
     description: "An analytics dashboard for financial data visualization with interactive charts and data filtering capabilities.",
-    image: "https://i.pinimg.com/736x/e2/93/25/e293252fc61eb4ee89736cbee5345747.jpg",
+    image: "https://images.pexels.com/photos/7567460/pexels-photo-7567460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     tags: ["React", "D3.js", "TypeScript", "Styled Components"],
     liveUrl: "https://medical-study-lecture-platform.vercel.app/",
     githubUrl: "https://github.com/countaustin1990/Medical-Study-Lecture-Platform.git",    

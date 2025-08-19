@@ -45,7 +45,7 @@ export default function About() {
             <div className="aspect-ratio-square relative rounded-lg overflow-hidden">
               <Image
                 src="/images/augustine.jpg"
-                alt="Augustine Portrait"
+                alt="Google Photos Image"
                 width={600}
                 height={600}
                 className="object-cover rounded-lg"

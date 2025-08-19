@@ -256,3 +256,4 @@ export default function Chatbot() {
     </>
   );
 }
+import { NextRequest, NextResponse } from "next/server";
