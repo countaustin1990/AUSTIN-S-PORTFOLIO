@@ -103,7 +103,7 @@ export default function Footer() {
               Interested in working together? Feel free to reach out.
             </p>
             <p className="text-muted-foreground">
-              Email: <a href="mailto:contact@example.com" className="text-primary hover:underline">contact@example.com</a>
+              Email: <a href="mailto:augustineakpokonyan@gmail.com" className="text-primary hover:underline">contact@example.com</a>
             </p>
           </div>
         </div>
