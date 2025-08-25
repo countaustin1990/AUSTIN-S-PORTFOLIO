@@ -21,7 +21,7 @@ const projects = [
     description: "A productivity application for managing tasks, deadlines, and team collaboration with real-time updates.",
     image: "https://media.gettyimages.com/id/2091553646/photo/set-of-fashion-collection-with-trendy-fashion-clothes-and-make-up-cosmetic-products-for-women.jpg?s=612x612&w=gi&k=20&c=gIbVOPeXlKkW-wEPclQOvU36IG5mct4f2QlBpq58qUk=",
     tags: ["React", "Context", "Tailwind Css"],
-    liveUrl: "https://three-js-balls.vercel.app/Home",
+    liveUrl: "https://three-js-balls-nd8y1jqx9-austech-io.vercel.app/",
     githubUrl: "#",
   },
   {
