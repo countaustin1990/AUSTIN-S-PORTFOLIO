@@ -71,14 +71,15 @@ export default function About() {
             </motion.p>
 
             <motion.div variants={itemVariants}>
-              <a
+             <a
                 href="https://www.linkedin.com/in/akpokonyan-augustine-b5b423155"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="border-3 bg-black text-white p-5 border-radius-3"
+                className="inline-block bg-black text-white px-6 py-3 rounded-lg font-medium hover:bg-gray-900 transition-colors"
               >
                 Connect with me on LinkedIn
               </a>
+
             </motion.div>
           </div>
         </motion.div>
