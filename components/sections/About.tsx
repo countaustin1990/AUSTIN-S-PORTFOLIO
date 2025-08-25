@@ -72,10 +72,10 @@ export default function About() {
 
             <motion.div variants={itemVariants}>
               <a
-                href="https://www.linkedin.com/in/your-linkedin-username"
+                href="https://www.linkedin.com/in/akpokonyan-augustine-b5b423155"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block text-primary font-medium hover:underline"
+                className="inline-block bg-black text-white font-medium hover:underline"
               >
                 Connect with me on LinkedIn
               </a>
