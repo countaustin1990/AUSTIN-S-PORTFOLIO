@@ -3,8 +3,6 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import Image from "next/image";
-import { Button } from "@/components/ui/button";
-import { Download } from "lucide-react";
 
 export default function About() {
   const [ref, inView] = useInView({
@@ -73,11 +71,14 @@ export default function About() {
             </motion.p>
 
             <motion.div variants={itemVariants}>
-              <Button asChild>
-                <a href="#" download>
-                  <Download className="mr-2 h-4 w-4" /> Download Resume
-                </a>
-              </Button>
+              <a
+                href="https://www.linkedin.com/in/your-linkedin-username"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block text-primary font-medium hover:underline"
+              >
+                Connect with me on LinkedIn
+              </a>
             </motion.div>
           </div>
         </motion.div>
