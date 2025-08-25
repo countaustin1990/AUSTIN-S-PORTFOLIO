@@ -75,7 +75,7 @@ export default function About() {
                 href="https://www.linkedin.com/in/akpokonyan-augustine-b5b423155"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mr-2 h-4 w-4"
+                className="border-3 bg-black text-white p-5 border-radius-3"
               >
                 Connect with me on LinkedIn
               </a>
